@@ -36,7 +36,7 @@
 				<key>bundle-identifier</key>
 				<string>com.yidinghuo.weile.update</string>
 				<key>bundle-version</key>
-				<string>2.8.1</string>
+				<string>2.9.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
